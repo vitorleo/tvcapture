@@ -133,3 +133,18 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+/capture/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
