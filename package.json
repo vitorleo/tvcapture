@@ -7,10 +7,9 @@
   "scripts": {
     "start": "node ./index.js"
   },
-  "author": "",
+  "author": "Vitor Gomes",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.39.0",
     "@types/node": "^20.9.0"
   },
   "dependencies": {
